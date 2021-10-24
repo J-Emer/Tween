@@ -1,0 +1,12 @@
+C:\Users\jemer\Engine_Projects\Libs\Tween\bin\Debug\net5.0\Tween.deps.json
+C:\Users\jemer\Engine_Projects\Libs\Tween\bin\Debug\net5.0\Tween.dll
+C:\Users\jemer\Engine_Projects\Libs\Tween\bin\Debug\net5.0\ref\Tween.dll
+C:\Users\jemer\Engine_Projects\Libs\Tween\bin\Debug\net5.0\Tween.pdb
+C:\Users\jemer\Engine_Projects\Libs\Tween\obj\Debug\net5.0\Tween.csproj.AssemblyReference.cache
+C:\Users\jemer\Engine_Projects\Libs\Tween\obj\Debug\net5.0\Tween.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemer\Engine_Projects\Libs\Tween\obj\Debug\net5.0\Tween.AssemblyInfoInputs.cache
+C:\Users\jemer\Engine_Projects\Libs\Tween\obj\Debug\net5.0\Tween.AssemblyInfo.cs
+C:\Users\jemer\Engine_Projects\Libs\Tween\obj\Debug\net5.0\Tween.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Engine_Projects\Libs\Tween\obj\Debug\net5.0\Tween.dll
+C:\Users\jemer\Engine_Projects\Libs\Tween\obj\Debug\net5.0\ref\Tween.dll
+C:\Users\jemer\Engine_Projects\Libs\Tween\obj\Debug\net5.0\Tween.pdb
