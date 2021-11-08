@@ -34,6 +34,8 @@ namespace Tween
 
         public event Action OnStart;
         public event Action OnFinish;
+
+        public event Action<T> HandleOutput;
         private bool _startFlag = false;
         private bool _endFlag = false;
 
@@ -63,6 +65,8 @@ namespace Tween
             _timeStep = Normalize(_timer, 0, Duration); 
 
             Set();        
+
+            HandleOutput?.Invoke(Output);
         }
 
         public void Flip()
