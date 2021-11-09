@@ -5,7 +5,7 @@ namespace Tween
 {
     public abstract class Tween_Base
     {
-        public string Name{get;private set;}
+        public string Name{get; set;}
         public bool IsActive{get;set;} = true;
         
         //public int RepeatLimit{get;set;} = 1;
